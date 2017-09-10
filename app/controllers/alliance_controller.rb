@@ -1,0 +1,2 @@
+class AllianceController < ApplicationController
+end
